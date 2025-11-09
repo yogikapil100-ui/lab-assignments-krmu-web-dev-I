@@ -1,0 +1,188 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(172, 40, 17);
+}
+
+header {
+    background-color: #ff573a;
+    color: aqua;
+    padding: 15px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    color: rgb(255, 68, 0);
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background: rgb(255, 0, 0);
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+}
+
+#about img {
+    border-radius: 50%;
+    border: 2px solid #000000;
+    margin-top: 10px;
+}
+
+footer {
+    background: rgb(255, 0, 0);
+    padding: 20px;
+    border-top: 3px solid #3a86ff;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #5c1010;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #ff3a3a;
+    color: aqua;
+}
+
+input, textarea {
+    width: 95%;
+    padding: 10px;
+    margin-top: 8px;
+    border: 1px solid #555;
+    background-color: aqua;
+}
+
+button {
+    background-color: #3a86ff;
+    color: aqua;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+#back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #ff3a3a;
+    color: rgb(255, 0, 0);
+    padding: 8px 12px;
+    text-decoration: none;
+}
+
+hr {
+    border: 1px solid #ccc;
+    margin: 20px 0;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(196, 196, 196);
+}
+
+header {
+    background-color: #280606;
+    color: rgb(199, 108, 108);
+    padding: 15px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    color: rgb(180, 95, 95);
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background: rgb(186, 182, 182);
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #000000;
+}
+
+#about img {
+    border-radius: 50%;
+    border: 2px solid #ff3a3a;
+    margin-top: 10px;
+}
+
+footer {
+    background: rgba(186, 182, 182);
+    padding: 20px;
+    border-top: 3px solid #ff3a3a;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #000000;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #8e2828af;
+    color: rgb(0, 0, 0);
+}
+
+input, textarea {
+    width: 95%;
+    padding: 10px;
+    margin-top: 8px;
+    border: 1px solid #000000;
+    background-color: #783a3ac1;
+}
+
+button {
+    background-color: #4b0909ce;
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+}
+
+#back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #000000;
+    color: rgb(0, 0, 0);
+    padding: 8px 12px;
+    text-decoration: none;
+}
+
+hr {
+    border: 1px solid #000000;
+    margin: 20px 0;
+}
